@@ -10,7 +10,7 @@ $aModule = array(
     'version'      => '1.0',
     'author'       => 'Aggrosoft',    
     'extend'      => array(
-         'oxarticle' => 'agloadid/core/agloadident_oxarticle'
+         'oxarticle' => 'agloadident/core/agloadident_oxarticle'
     ),
     'blocks' => array(
         array('template' => 'article_main.tpl', 'block'=>'admin_article_main_form', 'file'=>'article_main.tpl'),
